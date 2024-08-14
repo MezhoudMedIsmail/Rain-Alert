@@ -1,6 +1,3 @@
-Here's a simple README file you can use for your repository:
-
----
 
 # Weather Alert Script
 
